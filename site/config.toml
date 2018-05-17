@@ -1,8 +1,3 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "Homepage"
-
- [[menu.main]]
-  name = "About"
-  url  = "about"
-  weight = 5
