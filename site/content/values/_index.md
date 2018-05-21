@@ -37,5 +37,13 @@ values:
       That’s why we reinvest 20% of our profits into farms, local businesses and
       schools everywhere our coffee is grown. You can see the communities grow
       and learn more about coffee farming on our blog.
+  - heading: Teste 1234
+    imageUrl: /img/tim_berners-lee.jpg
+    text: |-
+      Texto maneirissimo mostrando o quanto conseguimos colocar itens aqui
+
+      Mandou bem!
+
+      Mesmo!
 ---
 
