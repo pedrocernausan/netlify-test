@@ -45,5 +45,8 @@ values:
       Mandou bem!
 
       Mesmo!
+  - heading: lalala
+    imageUrl: /img/about-jumbotron.jpg
+    text: Tdisaufosdhfs
 ---
 
